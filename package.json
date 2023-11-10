@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
-    "axios": "^0.19.2",
+    "axios": "^1.6.0",
     "bcryptjs": "^2.4.3",
     "clone-deep": "^4.0.1",
     "compression": "^1.7.4",
